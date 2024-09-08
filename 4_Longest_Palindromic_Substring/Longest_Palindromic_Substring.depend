@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1725701349 source:c:\users\ahmet\desktop\longest_palindromic_substring\main.c
-	<stdio.h>
-	<stdlib.h>
-	<stdbool.h>
-	<string.h>
-
